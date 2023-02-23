@@ -1,0 +1,18 @@
+h2{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(255, 255, 255)
+    
+}
+    body{
+        background-color: darkturquoise;
+        color: rgb(26, 69, 225);}
+
+    figure{
+        text-align: center;}
+    a:link{color:blue;text-decoration: none;}
+    a:visited{color:blueviolet;text-decoration: none;}
+    a:hover{color:aqua;text-decoration: none;}
+
+       
+        
